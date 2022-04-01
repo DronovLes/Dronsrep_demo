@@ -11,4 +11,8 @@ everything you know in the focus
 live in the moment
 don't ask the questions why
 
+
 Создаю текст в main ветке
+
+Добавляю текст в Feature ветке
+
