@@ -16,3 +16,5 @@ don't ask the questions why
 
 Добавляю текст в Feature ветке
 
+Git tag
+
